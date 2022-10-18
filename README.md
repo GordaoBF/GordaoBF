@@ -1,5 +1,5 @@
 ------------English/Inglês---------------------
-👋 Hi, I’m @GordaoBF
+- 👋 Hi, I’m @GordaoBF
 - 👀 I’m interested in Coding and Writing
 - 🌱 I’m currently learning PHP and Javascript
 - 📫 How to reach me: https://www.youtube.com/channel/UC__OOak09ArhTvHB8enjj4Q
